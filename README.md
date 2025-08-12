@@ -21,15 +21,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Jamovi](https://img.shields.io/badge/Jamovi-2D9CDB?style=for-the-badge&logo=jamovi&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-16A085?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F58536?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-660099?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1A237E?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-FF6600?style=for-the-badge)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge)
-![Yersinia](https://img.shields.io/badge/Yersinia-000000?style=for-the-badge)
-![SQLmap](https://img.shields.io/badge/SQLmap-FF0000?style=for-the-badge)
-![Hydra](https://img.shields.io/badge/Hydra-1E90FF?style=for-the-badge)
 
 
 
