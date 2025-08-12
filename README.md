@@ -20,7 +20,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Jamovi](https://img.shields.io/badge/Jamovi-2D9CDB?style=for-the-badge&logo=jamovi&logoColor=white)
+
 
 
 
