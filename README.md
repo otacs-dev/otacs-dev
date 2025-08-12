@@ -4,7 +4,7 @@
  
 ☼⊹﹏𓊝﹏𓂁﹏⊹ **Estudando:** Python, JavaScript e Bash  ☼⊹﹏𓊝﹏𓂁﹏⊹
 
-𓆝 𓆟 𓆞 𓆝 𓆟 Buscando colaborar com projetos redes neurais, scripts de automação e segurança da informação (pentest) 𓆝 𓆟 𓆞 𓆝 𓆟
+𓆝 𓆟 𓆞 𓆝 𓆟 Buscando colaborar com projetos de redes neurais, scripts de automação e segurança da informação (pentest) 𓆝 𓆟 𓆞 𓆝 𓆟
 
 ---
 
