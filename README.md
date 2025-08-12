@@ -1,8 +1,10 @@
-# Eaee, sou otacs-dev (Octávio) 👋
+# Me chamo, Octávio Teodoro! # 
+ ***Analista de Dados***  
+ 
+ 
+☼⊹﹏𓊝﹏𓂁﹏⊹ **Estudando:** Python, JavaScript e Bash  ☼⊹﹏𓊝﹏𓂁﹏⊹
 
-💻 **Desenvolvedor Backend, Data Scripts & Algorithms**  
-📚 **Estudando:** Python, JavaScript e Bash  
-🚀 Buscando colaborar em projetos de LSTM, redes neurais e mais  
+𓆝 𓆟 𓆞 𓆝 𓆟 Buscando colaborar com projetos redes neurais, scripts de automação e segurança da informação (pentest) 𓆝 𓆟 𓆞 𓆝 𓆟
 
 ---
 
@@ -13,6 +15,24 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jamovi](https://img.shields.io/badge/Jamovi-2D9CDB?style=for-the-badge&logo=jamovi&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-16A085?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F58536?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-660099?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1A237E?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-FF6600?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge)
+![Yersinia](https://img.shields.io/badge/Yersinia-000000?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/SQLmap-FF0000?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-1E90FF?style=for-the-badge)
+
+
+
 
 ---
 
@@ -21,7 +41,8 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=otacs-dev&show_icons=true&theme=radical)
 
 <!-- Forçando Python a aparecer no gráfico -->
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=otacs-dev&layout=compact&theme=radical&hide=html,scss,css)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=otacs-dev&layout=compact&theme=radical&include_all_commits=true&langs_count=12)
+
 
 ---
 
