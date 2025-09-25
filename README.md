@@ -1,8 +1,8 @@
 # Me chamo, Octávio Teodoro! # 
- ***Analista de Dados***  
+ ***Estudante de Ciência de Dados***  
  
  
-☼⊹﹏𓊝﹏𓂁﹏⊹ **Estudando:** Python, JavaScript e Bash  ☼⊹﹏𓊝﹏𓂁﹏⊹
+☼⊹﹏𓊝﹏𓂁﹏⊹ **Estudando:** Python, JavaScript, Linguagem R, Linguagem C, Bash e SQL  ☼⊹﹏𓊝﹏𓂁﹏⊹
 
 𓆝 𓆟 𓆞 𓆝 𓆟 Buscando colaborar com projetos de redes neurais, scripts de automação e novas abordagens tecnológicas! 𓆝 𓆟 𓆞 𓆝 
 
