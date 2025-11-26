@@ -1,4 +1,4 @@
-# Octávio Teodoro as Otacs-dev! # 
+# Octávio Teodoro <--> Otacs-dev # 
  ***Estudante de Ciência de Dados***  
  
  
