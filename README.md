@@ -1,5 +1,5 @@
 # Octávio Teodoro <--> Otacs-dev # 
- ***Estudante de Ciência de Dados***  
+ ***Analista de Performance Digital & Gestor de Mídia Paga | Cientista de Dados***  
  
  
 ☼⊹﹏𓊝﹏𓂁﹏⊹ **Estudando:** Python, JavaScript, Linguagem R, Bash e SQL  ☼⊹﹏𓊝﹏𓂁﹏⊹
