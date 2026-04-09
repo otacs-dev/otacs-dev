@@ -2,11 +2,8 @@
  ***Analista de Performance Digital & Gestor de Mídia Paga | Cientista de Dados***  
  
  
-☼⊹﹏𓊝﹏𓂁﹏⊹ **Estudando:** Python, JavaScript, Linguagem R, Bash e SQL  ☼⊹﹏𓊝﹏𓂁﹏⊹
+☼⊹﹏𓊝﹏𓂁﹏⊹ **Marketing Data Scientist
 
-𓆞 𓆝 𓆟 Buscando colaborar com projetos de redes neurais, scripts de automação e novas abordagens tecnológicas! 𓆝 𓆟 𓆞 
-
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
