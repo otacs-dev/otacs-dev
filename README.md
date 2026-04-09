@@ -3,7 +3,7 @@
 ☼⊹﹏𓊝﹏𓂁﹏⊹ **Marketing Data Scientist
 
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,17 +18,8 @@
 
 ---
 
-## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=otacs-dev&show_icons=true&theme=radical)
-
-<!-- Forçando Python a aparecer no gráfico -->
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=otacs-dev&layout=compact&theme=radical&include_all_commits=true&langs_count=12)
-
-
----
-
-## 🌐 "Onde me encontrar"
+## 🌐 "where to find me"
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_octavioteodoro_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavioteodoro/)
