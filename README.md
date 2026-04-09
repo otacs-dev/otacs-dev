@@ -1,4 +1,4 @@
-# Octávio Teodoro / Otacs-dev # 
+# Otacs-dev # 
  
 ☼⊹﹏𓊝﹏𓂁﹏⊹ 
 **Marketing Data Scientist
