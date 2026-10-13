@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Octávio Augusto dos Passos Teodoro
+# Octávio Teodoro
 
 **Consultor de Performance & Especialista em Web Analytics | Fundador da Seenby**
 
