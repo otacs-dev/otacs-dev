@@ -30,18 +30,6 @@ Beyond consulting, I have a strong interest in system automation, infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 🔭 What I'm currently building
-
-*   **Data Architectures:** Implementing server-side tracking and complex conversion pipelines integrating APIs and databases for Seenby's clients.
-*   **Open-Source & Academic Projects:** 
-    *   Developing **Installe**, a CLI tool (C++) for automation and environment dependency resolution.
-    *   Applied research in Data Science, such as Formula 1 simulations using Reinforcement Learning models (Proximal Policy Optimization).
-
-### 🌱 What I'm currently studying
-
-*   Diving deeper into Information Security, penetration testing, and reverse engineering.
-*   Advanced applied mathematics concepts, such as linear algebra, multivariable calculus, and information thermodynamics.
-
 ### 📫 How to reach me
 
 *   **Professional Website:** [seenby.com.br](https://seenby.com.br)
