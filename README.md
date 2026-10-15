@@ -8,3 +8,4 @@ Beyond consulting, I have a strong interest in system automation, infrastructure
 
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=otacs-dev&layout=compact&theme=dark&langs_count=6)
