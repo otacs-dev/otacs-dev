@@ -2,7 +2,7 @@ import json
 import urllib.request
 
 USER = "otacs-dev"
-HIDE = {"Jupyter Notebook"}
+HIDE = {"Jupyter Notebook", "Haskell"}
 COLS = 3          # muda aqui pra 4, 2 etc.
 W, PAD = 600, 25
 FONT = 'font-family="Segoe UI, Ubuntu, sans-serif"'
@@ -32,8 +32,8 @@ col_w = bar_w / COLS
 
 svg = [
     f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">',
-    f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="10" fill="#fff" stroke="#d0d7de"/>',
-    f'<text x="{PAD}" y="35" {FONT} font-size="18" font-weight="600" fill="#24292f">Most used languages</text>',
+    f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="10" fill="#0d1117" stroke="#30363d"/>',
+    f'<text x="{PAD}" y="35" {FONT} font-size="18" font-weight="600" fill="#e6edf3">Most used languages</text>',
     f'<clipPath id="c"><rect x="{PAD}" y="48" width="{bar_w}" height="8" rx="4"/></clipPath>',
     '<g clip-path="url(#c)">',
 ]
@@ -49,7 +49,7 @@ for i, (lang, size) in enumerate(langs):
     cy = 85 + (i // COLS) * 25
     color = COLORS.get(lang, "#8B949E")
     svg.append(f'<circle cx="{cx + 5:.1f}" cy="{cy - 4}" r="5" fill="{color}"/>')
-    svg.append(f'<text x="{cx + 16:.1f}" y="{cy}" {FONT} font-size="12" fill="#57606a">{lang} {size / shown * 100:.2f}%</text>')
+    svg.append(f'<text x="{cx + 16:.1f}" y="{cy}" {FONT} font-size="12" fill="#8b949e">{lang} {size / shown * 100:.2f}%</text>')
 
 svg.append("</svg>")
 open("languages.svg", "w", encoding="utf-8").write("\n".join(svg))
