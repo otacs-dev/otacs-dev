@@ -15,7 +15,6 @@ Beyond consulting, I'm interested in system automation, infrastructure, open-sou
 - [Evolutionary algorithms](https://github.com/otacs-dev/Evolutionary-Algorithms-EAs): genetic algorithm combined with A* pathfinding to optimize routes on a terrain map (a traveling salesman variant with rewards), animated with Matplotlib
 
 ### 
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
