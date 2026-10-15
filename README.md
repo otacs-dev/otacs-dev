@@ -24,4 +24,4 @@ Beyond consulting, I'm interested in system automation, infrastructure, open-sou
 
 ### Most used languages
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otacs-dev&layout=compact&theme=dark&langs_count=6&hide=jupyter%20notebook,html)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otacs-dev&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook)
