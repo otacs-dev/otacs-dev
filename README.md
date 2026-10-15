@@ -7,7 +7,9 @@ I'm a final-year Data Science student at Fatec Rubens Lara, working at the inter
 Beyond consulting, I'm interested in system automation, infrastructure, open-source development, and machine learning.
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -16,7 +18,7 @@ Beyond consulting, I'm interested in system automation, infrastructure, open-sou
 
 ### Featured work
 
-- [seenby.com.br](https://seenby.com.br/en): the Seenby website, built with React, TypeScript, and TanStack Start, available in six languages ([source](https://github.com/otacs-dev/seenby-landing-page))
+- [seenby.com.br](https://seenby.com.br/en): the Seenby website, built with React, TypeScript, and TanStack Start, available here ([source](https://github.com/otacs-dev/seenby-landing-page))
 - Machine learning, ETL, and data analysis projects in the pinned repositories below
 
 ### Most used languages
