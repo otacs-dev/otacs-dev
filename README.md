@@ -8,7 +8,7 @@ Beyond consulting, I'm interested in system automation, infrastructure, open-sou
 
 ### Featured work
 
-- [seenby.com.br](https://seenby.com.br/en): the Seenby website, built with React, TypeScript, and TanStack Start, available in multiple languages ([source](https://github.com/otacs-dev/seenby-landing-page))
+- [seenby.com.br](https://seenby.com.br/en): the Seenby website, built with React, TypeScript, and TanStack Start, available in multiple languages
 - [F1 performance prediction](https://github.com/otacs-dev/F1_MachineLearning_GradientBoosting-PPO): deep learning model for lap-time prediction trained on ~26k laps from 2024 (FastF1 data), plus a reinforcement learning environment for race strategy, validated against 2025 race results
 - [Sentiment analysis of ad-platform taxation](https://github.com/otacs-dev/webscraping_tweepy): undergraduate research project at Fatec Baixada Santista. Python pipeline (Tweepy, NLTK, TextBlob) with ANOVA in Jamovi and a Power BI dashboard, statistically validated on synthetic data due to API rate limits
 - [Data warehouse ETL](https://github.com/otacs-dev/etl.sql_data-warehouse-stores): data warehouse built from a transactional retail model, with relational and dimensional modeling and a T-SQL ETL from staging to presentation layer
